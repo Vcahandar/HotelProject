@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HotelPorject.EntityLayer.Concrete
+namespace HotelPorject.EntityLayer.Entities
 {
 	public class Room:BaseEntity
 	{

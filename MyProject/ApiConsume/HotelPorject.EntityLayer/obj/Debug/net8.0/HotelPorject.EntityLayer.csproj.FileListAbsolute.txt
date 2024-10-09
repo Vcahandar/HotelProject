@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Rapid API\MyProject\ApiConsume\HotelPorject.EntityLayer\bin\Debug\net8.0\HotelPorject.EntityLayer.deps.json
+C:\Users\HP\Desktop\Rapid API\MyProject\ApiConsume\HotelPorject.EntityLayer\bin\Debug\net8.0\HotelPorject.EntityLayer.runtimeconfig.json
+C:\Users\HP\Desktop\Rapid API\MyProject\ApiConsume\HotelPorject.EntityLayer\bin\Debug\net8.0\HotelPorject.EntityLayer.dll
+C:\Users\HP\Desktop\Rapid API\MyProject\ApiConsume\HotelPorject.EntityLayer\bin\Debug\net8.0\HotelPorject.EntityLayer.pdb
+C:\Users\HP\Desktop\Rapid API\MyProject\ApiConsume\HotelPorject.EntityLayer\obj\Debug\net8.0\HotelPorject.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Rapid API\MyProject\ApiConsume\HotelPorject.EntityLayer\obj\Debug\net8.0\HotelPorject.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Rapid API\MyProject\ApiConsume\HotelPorject.EntityLayer\obj\Debug\net8.0\HotelPorject.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Rapid API\MyProject\ApiConsume\HotelPorject.EntityLayer\obj\Debug\net8.0\HotelPorject.EntityLayer.AssemblyInfo.cs
+C:\Users\HP\Desktop\Rapid API\MyProject\ApiConsume\HotelPorject.EntityLayer\obj\Debug\net8.0\HotelPorject.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Rapid API\MyProject\ApiConsume\HotelPorject.EntityLayer\obj\Debug\net8.0\HotelPorject.EntityLayer.sourcelink.json
+C:\Users\HP\Desktop\Rapid API\MyProject\ApiConsume\HotelPorject.EntityLayer\obj\Debug\net8.0\HotelPorject.EntityLayer.dll
+C:\Users\HP\Desktop\Rapid API\MyProject\ApiConsume\HotelPorject.EntityLayer\obj\Debug\net8.0\refint\HotelPorject.EntityLayer.dll
+C:\Users\HP\Desktop\Rapid API\MyProject\ApiConsume\HotelPorject.EntityLayer\obj\Debug\net8.0\HotelPorject.EntityLayer.pdb
+C:\Users\HP\Desktop\Rapid API\MyProject\ApiConsume\HotelPorject.EntityLayer\obj\Debug\net8.0\HotelPorject.EntityLayer.genruntimeconfig.cache
+C:\Users\HP\Desktop\Rapid API\MyProject\ApiConsume\HotelPorject.EntityLayer\obj\Debug\net8.0\ref\HotelPorject.EntityLayer.dll
